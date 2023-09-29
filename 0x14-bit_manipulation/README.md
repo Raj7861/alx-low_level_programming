@@ -1,1 +1,1 @@
-Bit manipulation differ
+Bit manipulation differed
